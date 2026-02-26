@@ -1,7 +1,7 @@
 # Template Electron-Vue3-TypeScript
 
-**Auteur :** [VOTRE_PRENOM] [VOTRE_NOM]  
-**Matricule :** [VOTRE_MATRICULE]
+**Auteur :** David Dumas
+**Matricule :** 2445194
 
 ## Description du Template
 
@@ -24,7 +24,7 @@ Ce template vous fournit :
 - **Electron Vite** ^5.0.0 - Plugin Vite pour Electron
 
 ## Installation
-
+npm i
 ### Prérequis
 
 - Node.js (version 18 ou supérieure)
@@ -71,7 +71,7 @@ Affiche un aperçu de la version build construite.
 ## Structure des Dossiers
 
 ```
-template-prenom-nom/
+template-david-dumas/
 ├── src/
 │   ├── main/                 # Processus principal Electron
 │   │   └── main.ts          # Point d'entrée du processus principal
@@ -153,4 +153,4 @@ ISC
 
 ---
 
-**Créé comme base réutilisable en 2025**
+**Créé comme base réutilisable en 2026**
