@@ -9,15 +9,15 @@
 export default {
     data() {
         return {
-            // Définir vos données ici
+            // Définir les données ici
         };
     },
     methods: {
-        // Définir vos méthodes ici
+        // Définir les méthodes ici
     },
 }
 </script>
 
 <style scoped>
-/* Ajouter vos styles ici */
+/* Ajouter les styles ici */
 </style>
